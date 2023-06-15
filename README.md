@@ -3,7 +3,7 @@ Google Data Analysis Certification Project Capstone. Bellabeat Case Study.
 
 This project is done using SQL and R for visualization.
 
-Please find the files below.
+Please find the files below:
 
 HTML : https://327d01b376754be2b4267ca2d412bb96.app.posit.cloud/?view=rmarkdown
 
